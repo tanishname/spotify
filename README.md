@@ -1,7 +1,7 @@
 
 # 🎧 Spotify SQL Project
 
-This project explores advanced SQL queries on a Spotify dataset, covering everything from basic SELECTs to complex window functions and CTEs. It's structured into three levels: **Easy**, **Medium**, and **Hard**, and is ideal for practicing SQL for data analysis or interview prep.
+This project explores advanced SQL queries on a Spotify dataset, covering everything from basic SELECTs to complex window functions and CTEs. It's structured into three levels: **Easy**, **Medium**, and **Hard**
 
 ---
 
