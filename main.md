@@ -127,15 +127,4 @@ FROM spotify;
 
 ---
 
-## 🚀 How to Use
-
-1. Load the schema into your SQL environment.
-2. Paste the queries based on the level of difficulty you want to try.
-3. Observe, tweak, and analyze the results.
-
----
-
-## 👨‍💻 Author
-
-Made with 💚 by a SQL enthusiast.
 
